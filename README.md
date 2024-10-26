@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername" alt="yourusername" /></a> </p>
 
-<p align="left"> <a href="https://x.com/imAp47" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="yourtwitterhandle" /></a> </p>
+<p align="left"> <a href="https://x.com/imAp47" target="blank"><img src="https://img.shields.io/twitter/follow/imAp47?logo=twitter&style=for-the-badge" alt="yourtwitterhandle" /></a> </p>
 
 - 🔭 I’m currently working on [ProjectName](https://github.com/yourusername/ProjectName)
 
