@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [ProjectName](https://github.com/yourusername/ProjectName)
 
-- 🌱 I’m currently learning **Advanced JavaScript, API Development, Cloud Integration**
+- 🌱 I’m currently learning **Advanced JavaScript, API Development, Cloud Integration, Docker, Vue.Js**
 
-- 👯 I’m looking to collaborate on [AnotherProject](https://github.com/yourusername/AnotherProject)
+- 👯 I’m looking to collaborate on Project (any kind of project with any tech stack)
 
-- 🤝 I’m looking for help with **State Management in Vue.js**
+- 🤝 I’m looking for  **Job Remote preferred**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SSJGoku47](https://github.com/SSJGoku47)
 
