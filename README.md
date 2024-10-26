@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Parmar</h1>
 <h3 align="center">A passionate Full Stack Developer specializing in PHP, Laravel, and Vue.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SSJGoku47&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername" alt="yourusername" /></a> </p>
 
