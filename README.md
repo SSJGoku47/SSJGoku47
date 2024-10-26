@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **State Management in Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://yourportfolio.com/](https://yourportfolio.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/SSJGoku47](https://github.com/SSJGoku47)
 
 - 💬 Ask me about **Laravel, PHP, Vue.js, MySQL**
 
-- 📫 How to reach me **youremail@example.com**
+- 📫 How to reach me **parmarankit704185@gmail.com**
 
-- 📄 Know about my experiences [https://yourportfolio.com/](https://yourportfolio.com/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ankit-parmar-449093192/](https://www.linkedin.com/in/ankit-parmar-449093192/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
