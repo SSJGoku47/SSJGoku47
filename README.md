@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on Project (any kind of project with any tech stack)
 
-- 🤝 I’m looking for  **Job**
-
 - 👨‍💻 All of my projects are available at [https://github.com/SSJGoku47](https://github.com/SSJGoku47)
 
 - 💬 Ask me about **Laravel, PHP, Vue.js, MySQL**
